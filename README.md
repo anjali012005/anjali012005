@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Anjali Daharwal </a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/anjali-daharwal/"Anjali Daharwal </a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
